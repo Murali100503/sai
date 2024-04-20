@@ -1,0 +1,21 @@
+   .sai{
+    color:purple;
+    text-align:center;
+    text-size: xx-large;
+    position:fixed;
+    top:25%;
+    left:50%;
+  }
+ .sai1{
+   position:fixed;
+   bottom:0;
+   left:50%;
+ }
+ .sai1{
+   width:100px;
+   height:50px;
+   font-size:20px;
+ }
+ body{
+  background-size: cover;
+ }
